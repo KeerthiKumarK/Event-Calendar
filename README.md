@@ -30,7 +30,7 @@ A responsive, interactive event calendar built with **React**, featuring event c
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/event-calendar.git
+git clone  https://github.com/KeerthiKumarK/Event-Calendar.git
 cd event-calendar
 
 ```
