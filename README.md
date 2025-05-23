@@ -23,7 +23,8 @@ A responsive, interactive event calendar built with **React**, featuring event c
 
 ## 🖼️ Preview
 
-![Screenshot](./screenshot.png) <!-- Optional: Add your own image -->
+![image](https://github.com/user-attachments/assets/3b8fd6f4-9935-4fe7-8c38-40535e1213d0)
+ 
 
 ## 🔧 Installation
 
